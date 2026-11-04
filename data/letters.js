@@ -5,6 +5,38 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-09-half-way-done-with-ccm",
+    title: "Half way done with CCM",
+    date: "2026-09-09",
+    location: "Mexico MTC",
+    week: 2,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "Hop in my Google photos to see what I've been doing." },
+      { type: "p", text: "Whats up guys I'm half way done with the CCM so I'll be in Costa RIca in 2 weeks yippee! Idrk what to write about cause most of the days are the same, but everyday we got personal study and I used to hate reading the scriptures but here it has been one of my favorite parts of my day. There's something different about the day when you set the focus in the morning learning about Christ. I encourage you guys to all find time to study daily and you will be blessed. Then we got some language and companion studies, and then we get hit with 2 3 hour Spanish classes back to back to end the day. Ruthless." },
+      { type: "p", text: "Some highlights this week" },
+      { type: "p", text: "- Most nights people tie trade around the campus, but Saturday was the biggest tie trade in CCM history, got a nice tie but send me some more fat ties por favor 🙏" },
+      { type: "p", text: "-Getting fried every day in volleyball or futsal, I didn't know the average missionary was a freak volleyball player" },
+      { type: "p", text: "-Natives from Mexico live with us now and every night it seems like something crazy happens now, either a fight over Nevada being the worst state from elder hoodcroft, a riffoff from pitch perfect or taking each other's doors the night is always goated" },
+      { type: "p", text: "Got a new teacher in our night class so I can hopefully stay awake now" },
+      { type: "p", text: "Low-lights" },
+      { type: "p", text: "-Food, we had fast Sunday this week but the days before fast Sunday the food was unedible so I was already starving going into Sunday so I was dying for a sec till we got some chicken bakes that saved me from being malnourished" },
+      { type: "p", text: "-I cant watch the chiefs game on Monday 😢 but I will be wearing a red tie on Monday l, Red Kingdom baby" },
+      { type: "p", text: "-I miss music, hymns are good but some kanye would be nice" },
+      { type: "scripture", ref: "Alma 36:24", text: "24 Yea, and from that time even until now, I have labored without ceasing, that I might bring souls unto repentance; that I might bring them to taste of the exceeding joy of which I did taste; that they might also be born of God, and be filled with the Holy Ghost." },
+      { type: "p", text: "I cant wait to serve the people of Costa Rica to bring them the exceeding Joy that I get to have in my life. The joy of the gospel of Jesus Christ is great than any other joy on this earth. I invite you guys to strive to find and follow Christ in your daily life and he will bless you." },
+      { type: "p", text: "Please email me i would love to hear from you guys 🥸" }
+    ],
+    spiritualThought: {
+      title: "The exceeding joy I get to have in my life",
+      intro: "",
+      scriptureRef: "Alma 36:24",
+      scripture: "24 Yea, and from that time even until now, I have labored without ceasing, that I might bring souls unto repentance; that I might bring them to taste of the exceeding joy of which I did taste; that they might also be born of God, and be filled with the Holy Ghost."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-02-moc-in-the-top-pock",
     title: "Moc in the Top Pock",
     date: "2026-09-02",
