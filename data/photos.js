@@ -10,6 +10,23 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
+  { id: "family-2026-10-19-jessie-1", src: "photos/family-2026-10-19-jessie-1.jpg", date: "2026-10-19",
+    caption: "Week 8 - Flores - Elder Gardner and Elder Bailey", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+  { id: "family-2026-10-19-jessie-2", src: "photos/family-2026-10-19-jessie-2.jpg", date: "2026-10-19",
+    caption: "Week 8 - Flores - Elder Gardner and Elder Bailey", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+  { id: "family-2026-10-19-jessie-3", src: "photos/family-2026-10-19-jessie-3.jpg", date: "2026-10-19",
+    caption: "Week 8 - Flores - Elder Gardner and Elder Bailey", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+  { id: "family-2026-10-19-jessie-4", src: "photos/family-2026-10-19-jessie-4.jpg", date: "2026-10-19",
+    caption: "Week 8 - Flores - Elder Gardner and Elder Bailey", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+  { id: "family-2026-10-19-jessie-5", src: "photos/family-2026-10-19-jessie-5.jpg", date: "2026-10-19",
+    caption: "Week 8 - Flores - Elder Gardner and Elder Bailey", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
   { id: "family-2026-10-12-jessie-1", src: "photos/family-2026-10-12-jessie-1.jpg", date: "2026-10-12",
     caption: "Week 7 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
     letterId: "2026-10-12-no-spanish-no-problem" },
