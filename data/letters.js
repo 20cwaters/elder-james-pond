@@ -5,6 +5,36 @@
 
 window.LETTERS = [
   {
+    id: "2026-10-12-no-spanish-no-problem",
+    title: "No Spanish No Problem",
+    date: "2026-10-12",
+    location: "Flores",
+    week: 7,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "Whats up guys! This week was a pretty good one, expect when I lost my phone for 2 day 😬" },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- Got to run intercambios with my boy Elder Bingham from the CCM. We were nervous going out cause we both got some chopped spanish but we lowkey cooked and got a bunch of new friends. Just hopefully they respond cause who knows if they could understand us 🙏" },
+      { type: "p", text: "- Played some fútbol with some kids at this tiny court. I was cooking and had 3 goals but then I rolled my ankle twice. It's a miracle they somehow didn't hurt at all after. And I got told I look like Cole Palmer (my goat)" },
+      { type: "p", text: "- We get to baptize Noah tonight cause his family couldn't yesterday, so that should be so sick. Noah is the best and he's basically the kid from pursuit of happiness, it's been so cool to watch his testimony grow, I'll let yall know how it goes next week" },
+      { type: "p", text: "Gospel library armor or god song gets my hype in the morning" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- We were grinding all week trying to find new friends, but it's hard cause everyone's fake and we only had one friend show up to church, but we had a miracle and had an old family of 3 my comp had found a couple months ago show up to church and they seemed super interested" },
+      { type: "p", text: "- My phone fell out of my pocket in an Uber and right as I got out of the car I realized. But it was to late the moment I stepped out the Uber stepped on it and I couldn't get it back. After a long process of getting the lady's number and the other elders getting my phone I finally got it back after 2 days, phew" },
+      { type: "scripture", ref: "Mosiah 2:41", text: "And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it." },
+      { type: "p", text: "I love this verse so much. We truly are blessed in all things when we follow the commandments of God. And not only does god bless us in spiritual things but we also see miracles in earthly things when we follow him. I have seen this more as I have followed God closer on my mission and have seen the blessings. I encourage you guys to partake in the blessings that are waiting. And the biggest blessing of all, dwelling with God and living in never ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it." },
+      { type: "p", text: "Please email me 🥹🙏 🫣" }
+    ],
+    spiritualThought: {
+      title: "Blessed in all things when we follow the commandments",
+      intro: "I love this verse so much.",
+      scriptureRef: "Mosiah 2:41",
+      scripture: "And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-05-cactus-jack",
     title: "Cactus Jack",
     date: "2026-10-05",
