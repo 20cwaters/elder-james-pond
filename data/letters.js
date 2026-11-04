@@ -5,6 +5,39 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-16-peace-in-christ",
+    title: "Peace in Christ",
+    date: "2026-09-16",
+    location: "Mexico MTC",
+    week: 3,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "Whats up everyone!🫡 Just another week of the CCM, but in one week I am in Costa Rica let's goo. I've enjoyed my time here so far but I'm starting to get excited to leave this place. Here's some stuff that happened this week." },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- Played some poker which was peak but lost my nutty buddy that I bet rip, i miss blackjack with the boys" },
+      { type: "p", text: "- Some more devotionals keeping me motivated to share the gospel. An elder of the seventy came elder Alvarado and he was the coolest guy ever, talked about how the Lord is always with you and will magnify your efforts" },
+      { type: "p", text: "- Me and my comp got to give a lesson in Spanish on Friday and it went way better than I thought it would. The Spanish is coming along and gift of tongues is carrying." },
+      { type: "p", text: "- Today is mexico independence day so there was fireworks all of last night which were tuff, not as good as Americas tho" },
+      { type: "p", text: "-Still been grinding hacky sack with the district, can't get the around the world down tho" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- Every Monday we do some service and it's been chill so far till this week rolled around. We had to clean casa 1 and and it looked like a hoarders house. There was trash thrown all over the floor and under the beds and a palm tree branch in the bathroom. Safe to say this place was not cleaned all week. And the cherry on top was we found what looked like a bag of cocaine? Check my Google photos and lmk if that's what it is" },
+      { type: "p", text: "- The food is getting worse. I got sick and about passed out one day so they handed me like 10 pills and they saved so ig I ain't complaining. But at least we had one good meal this week, there was some gas tacos 🌮" },
+      { type: "p", text: "- Have our spanish test Friday prayers up" },
+      { type: "p", text: "Spiritual thought" },
+      { type: "scripture", ref: "Henry B. Eyring, “Finding Personal Peace”", text: "There is an enemy of your soul who does not want you and those you love to find peace. He cannot enjoy it. He works to prevent you from even wanting to find the peace the Savior and our Heavenly Father desire you to have." },
+      { type: "p", text: "Satan is constantly working against us to take away the peace of Christ that we can enjoy. When we follow the Lord's commandments and live worthy of the spirit, we can cast Satan out and receive the blessings that the Lord has in store for us and receive never ending peace. I encourage you guys to strive to feel the peace of Christ every day." },
+      { type: "p", text: "Would love to see you guys email me it would make my week. Peace out ✌️" }
+    ],
+    spiritualThought: {
+      title: "Strive to feel the peace of Christ every day",
+      intro: "",
+      scriptureRef: "Henry B. Eyring, “Finding Personal Peace”",
+      scripture: "There is an enemy of your soul who does not want you and those you love to find peace. He cannot enjoy it. He works to prevent you from even wanting to find the peace the Savior and our Heavenly Father desire you to have."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-09-half-way-done-with-ccm",
     title: "Half way done with CCM",
     date: "2026-09-09",
