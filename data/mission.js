@@ -90,8 +90,8 @@ window.MISSION = {
       end: "2026-09-23",
       lat: null,                             // TODO: exact coordinates of the Mexico MTC campus not confirmed
       lng: null,
-      companion: "",
-      note: "",
+      companion: "Elder Adams",
+      note: "Companions from the start of home MTC training on 2026-08-12 through the Mexico MTC.",
       current: false
     },
     {
@@ -99,18 +99,18 @@ window.MISSION = {
       region: "Heredia, Costa Rica",
       type: "area",
       start: "2026-09-23",
-      end: "2026-11-02",
+      end: "2026-11-04",
       lat: 10.0060,                          // Flores canton (San Joaquín de Flores), Heredia
       lng: -84.1539,
-      companion: "Elder Gardner",            // TODO: in a trio with two zone leaders; only Elder Gardner is named so far
-      note: "",
+      companion: "Elder Gardner and Elder Bailey",
+      note: "First transfer in Costa Rica, in a trio with two zone leaders.",
       current: false
     },
     {
       name: "Nicoya",
       region: "Guanacaste, Costa Rica",
       type: "area",
-      start: "2026-11-02",
+      start: "2026-11-04",
       end: null,
       lat: 10.1504,                          // Nicoya, Guanacaste
       lng: -85.4509,
