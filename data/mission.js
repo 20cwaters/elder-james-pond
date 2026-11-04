@@ -87,10 +87,22 @@ window.MISSION = {
       region: "Mexico City, Mexico",
       type: "mtc",
       start: "2026-08-27",
-      end: null,
+      end: "2026-09-23",
       lat: null,                             // TODO: exact coordinates of the Mexico MTC campus not confirmed
       lng: null,
       companion: "",
+      note: "",
+      current: false
+    },
+    {
+      name: "Flores",
+      region: "Heredia, Costa Rica",
+      type: "area",
+      start: "2026-09-23",
+      end: null,
+      lat: 10.0060,                          // Flores canton (San Joaquín de Flores), Heredia
+      lng: -84.1539,
+      companion: "",                         // TODO: in a trio with two zone leaders; he hasn't named them
       note: "",
       current: true
     }

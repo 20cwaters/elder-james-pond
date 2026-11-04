@@ -5,6 +5,41 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-28-pura-vida",
+    title: "Pura Vida",
+    date: "2026-09-28",
+    location: "Flores",
+    week: 5,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "Whats up yall we touched down in Costa Rica 🇨🇷! Last week of the CCM was basically the same thing so I didn't want to write an email, but rip 7C 😢. I'm in a trio which is goated cause my 2 comps are dawgs. Are area is close to the main city San Jose it's called Flores it's pretty calm. Heres some highlights and lowlights of my first few days here." },
+      { type: "p", text: "Also I don't have messenger anymore so email me pls🙏" },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- My companions are goated, I'm in a trio with 2 ZLs and they are hilarious, there always in a good mood which makes even the hard stuff fun" },
+      { type: "p", text: "- No more CCM food it's a miracle, the members here are goated and feed us every night, always some rice and beans with meat and some super sugary drink, genuinely tastes like kool-aid just triple the sugar. Ima put on some weight, and we got Angelita who cooks us up lunch every day, but she's got an evil dog. ESPIKE we hear that like 20 times a day" },
+      { type: "p", text: "- Took a pointless 40 min Uber to a baptism interview but then it got canceled which sucked, but we got a mcflurry and inside the McDonald's there was some Jack Johnson which was fuego" },
+      { type: "p", text: "- The work is mad fun, we don't knock doors we just contact on the streets which we some pretty weird things everyday like a tweaker trying to get a fist bump on his head" },
+      { type: "p", text: "- Rains every day which feels so nice" },
+      { type: "p", text: "- OPA BUENAS!" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- My Spanish is buns. The bad part is trying to understand people, I can't follow along in any conversation and then my comps will look at me and tell me to share but I have no context on the conversation so I just end up saying something random" },
+      { type: "p", text: "-Alot of walking my calfs be getting sore from the hills but apparently our area is one of the areas with less hills so I might be cooked, I'm in the city and apparently outside of it there's way more hills" },
+      { type: "p", text: "- The first night we got here and slept in the mission home and it was filthy and crowded with like 25 missionaries when there should have been like 5 in there, and they made us wake up at 5 am after waking up at 3 the day before cause apparently we had to go somewhere but then we ended up sitting around for 2 hours" },
+      { type: "p", text: "-I miss the O and I miss the van" },
+      { type: "p", text: "Spiritual thought" },
+      { type: "p", text: "I really like 1 nephi chapter 8 you should all go read it. We need to stay holding onto the iron rod and partake of the fruit. Even after Lehi ate the fruit of the tree of life he could still see the darkness. We need to stay strong and avoid Satan's temptations and cling to the rod even when we are in the darkness, and when we partake of the fruit it fill ls us with Joy." },
+      { type: "p", text: "Email me 😁" }
+    ],
+    spiritualThought: {
+      title: "Cling to the rod even when we are in the darkness",
+      intro: "I really like 1 nephi chapter 8 you should all go read it.",
+      scriptureRef: "1 Nephi 8",
+      scripture: "We need to stay holding onto the iron rod and partake of the fruit. Even after Lehi ate the fruit of the tree of life he could still see the darkness. We need to stay strong and avoid Satan's temptations and cling to the rod even when we are in the darkness, and when we partake of the fruit it fill ls us with Joy."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-16-peace-in-christ",
     title: "Peace in Christ",
     date: "2026-09-16",
