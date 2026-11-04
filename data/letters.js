@@ -5,6 +5,35 @@
 
 window.LETTERS = [
   {
+    id: "2026-10-05-cactus-jack",
+    title: "Cactus Jack",
+    date: "2026-10-05",
+    location: "Flores",
+    week: 6,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "What it do flight crew! This week was tuff, conference in the mission was way different than I thought it would be. But let me know your favorite talks, I would love to hear from everyone." },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- Had a crazy tie trade that was in the works all week with my comp. I had to give up one of my Dads 7 finger grails which was tragic, but I got the Cactus Jack tie and the pineapple." },
+      { type: "p", text: "- Ran intercambios with Elder Madrid who's also in his training so we both barely know spanish, but we still cooked up" },
+      { type: "p", text: "- We're teaching a guy who found a book of mormon in a trash can and put him on date for baptism" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- Instead of getting to watch conference we just have to run around and get others to watch conference which is good but I miss being able to rot on the couch, also when we are watching it with friends it's in Spanish 🫩" },
+      { type: "p", text: "- Had a Cuban lady named moraima on date for this week but she was having some problems so she didn't end up getting dunked but hopefully we can get her back on track" },
+      { type: "scripture", ref: "Matthew 10:39", text: "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it." },
+      { type: "p", text: "This is my mission scripture and I heard it again during conference. I'm starting to see this come to life for me, as I focus all my time on the Savior and sharing that joy with others, it bring me so much joy. I know that if we turn our life's over to God we will experience more joy than we can in anything else. I encourage you guys to follow and give more time to Christ and I promise you will be blessed for doing so." },
+      { type: "p", text: "Pls email me it would make me week" }
+    ],
+    spiritualThought: {
+      title: "Give more time to Christ",
+      intro: "This is my mission scripture and I heard it again during conference.",
+      scriptureRef: "Matthew 10:39",
+      scripture: "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-09-28-pura-vida",
     title: "Pura Vida",
     date: "2026-09-28",
