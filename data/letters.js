@@ -36,6 +36,39 @@ window.LETTERS = [
     photos: []
   },
   {
+    id: "2026-10-29-gozo-pack",
+    title: "Gozo Pack",
+    date: "2026-10-29",
+    location: "Flores",
+    week: 9,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "What's up yall this week was awesome! And long cause no p day until Thursday, but so much gozo and we get to go to the temple today. 😃" },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- Last week we found a 17 year old kid named Eduardo who is the goat. He loves UFC so I get to try to talk to him about that in Spanish, yikes. But he pulled up to Church and is super interested, just a little hesitant on committing to be baptized but he's progressing. Please pray for him 🙏" },
+      { type: "p", text: "- I got to spend 4 days in Belén with Elder Proctor and Elder Staker, they are so fun and it has been straight gozo with them." },
+      { type: "p", text: "- Ran an intercambio yesterday with Elder Nielsen and Proctor. It was probably the best day yet in the mission. We started off with Rice and Bean, literally what they call it here, best food ever. Then we had a insane day in Los Huevitos and put 5 people on date for baptism. Craziest day ever. Helping people work towards baptism brings so much Joy. And then finished it off with some of the best sushi ever. Went broke for it but that's chill." },
+      { type: "p", text: "- Been playing so much Baseball (Book of Mormon edition)" },
+      { type: "p", text: "- Gozo Packs, nothing better than some buffalo ranch chips and strawberry smash powerade" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- We find out transfer news on Sunday, and that means Elder Gardner is going home 😢" },
+      { type: "p", text: "- Sunday we had a massive lunch to end our fast and then a couple hours later had like a 10 course dinner, the plates just didn't stop coming. Genuinely had 3 different desserts, it was gas but was hard to get down, I think im gaining weight rapidly" },
+      { type: "p", text: "This week I studied in Alma 5 and now it is one of my favorite chapters. You guys should all go read it." },
+      { type: "scripture", ref: "Alma 5:19, 37–38", text: "19 I say unto you, can ye look up to God at that day with a pure heart and clean hands? I say unto you, can you look up, having the image of God engraven upon your countenances?\n\n37 O ye workers of iniquity; ye that are puffed up in the vain things of the world, ye that have professed to have known the ways of righteousness nevertheless have gone astray, as sheep having no shepherd, notwithstanding a shepherd hath called after you and is still calling after you, but ye will not hearken unto his voice!\n\n38 Behold, I say unto you, that the good shepherd doth call you; yea, and in his own name he doth call you, which is the name of Christ; and if ye will not hearken unto the voice of the good shepherd, to the name by which ye are called, behold, ye are not the sheep of the good shepherd." },
+      { type: "p", text: "I love the question about the last day, when we see God again are we going to have his countenance in us? It is so important to strive to develop christlike attributes while we are here on earth." },
+      { type: "p", text: "The good Shepherd is calling us, are we going to choose to wander off and get eaten by the wolf? We must hearken unto Christ and follow him, and we will be his sheep at the last day." },
+      { type: "p", text: "Peace out, please email me 🙏" }
+    ],
+    spiritualThought: {
+      title: "The good Shepherd is calling us",
+      intro: "This week I studied in Alma 5 and now it is one of my favorite chapters. You guys should all go read it.",
+      scriptureRef: "Alma 5:19, 37–38",
+      scripture: "19 I say unto you, can ye look up to God at that day with a pure heart and clean hands? I say unto you, can you look up, having the image of God engraven upon your countenances?\n\n37 O ye workers of iniquity; ye that are puffed up in the vain things of the world, ye that have professed to have known the ways of righteousness nevertheless have gone astray, as sheep having no shepherd, notwithstanding a shepherd hath called after you and is still calling after you, but ye will not hearken unto his voice!\n\n38 Behold, I say unto you, that the good shepherd doth call you; yea, and in his own name he doth call you, which is the name of Christ; and if ye will not hearken unto the voice of the good shepherd, to the name by which ye are called, behold, ye are not the sheep of the good shepherd."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-19-aztec-soup-nah",
     title: "Aztec Soup?? Nah",
     date: "2026-10-19",
