@@ -10,6 +10,26 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
+  { id: "family-2026-11-02-jessie-1", src: "photos/family-2026-11-02-jessie-1.jpg", date: "2026-11-02",
+    caption: "Week 10 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-11-02-i-told-you-i-wouldnt-kill-you" },
+  { id: "family-2026-11-02-jessie-2", src: "photos/family-2026-11-02-jessie-2.jpg", date: "2026-11-02",
+    caption: "Week 10 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-11-02-i-told-you-i-wouldnt-kill-you" },
+  { id: "family-2026-11-02-jessie-3", src: "photos/family-2026-11-02-jessie-3.jpg", date: "2026-11-02",
+    caption: "Week 10 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-11-02-i-told-you-i-wouldnt-kill-you" },
+  { id: "family-2026-11-02-jessie-4", src: "photos/family-2026-11-02-jessie-4.jpg", date: "2026-11-02",
+    caption: "Week 10 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-11-02-i-told-you-i-wouldnt-kill-you" },
+  { id: "family-2026-11-02-jessie-5", src: "photos/family-2026-11-02-jessie-5.jpg", date: "2026-11-02",
+    caption: "Week 10 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-11-02-i-told-you-i-wouldnt-kill-you" },
+  { id: "family-2026-11-02-jessie-6", src: "photos/family-2026-11-02-jessie-6.jpg", date: "2026-11-02",
+    caption: "Week 10 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-11-02-i-told-you-i-wouldnt-kill-you" },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
   { id: "family-2026-09-28-jessie-1", src: "photos/family-2026-09-28-jessie-1.jpg", date: "2026-09-28",
     caption: "Flores- Elder Bailey and Elder Gardner- Pura Vida", location: "Flores",
     letterId: "2026-09-28-pura-vida", sharedBy: { name: "Jessie", relationship: "Mom" } },
