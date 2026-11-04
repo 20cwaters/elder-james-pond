@@ -32,7 +32,9 @@ window.LETTERS = [
       scriptureRef: "Dieter F. Uchtdorf, “A Higher Joy”",
       scripture: "We rarely find something we are not looking for. Are you looking for joy? Seek, and ye shall find."
     },
-    tagalog: [],
+    tagalog: [
+      { word: "Gozo", meaning: "joy" }
+    ],
     photos: []
   },
   {
