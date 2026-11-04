@@ -7,4 +7,43 @@
    placeholder tile instead of a broken image.
    ============================================================ */
 
-window.PHOTOS = [];
+window.PHOTOS = [
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
+  { id: "family-2026-09-16-jessie-1", src: "photos/family-2026-09-16-jessie-1.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-2", src: "photos/family-2026-09-16-jessie-2.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-3", src: "photos/family-2026-09-16-jessie-3.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-4", src: "photos/family-2026-09-16-jessie-4.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-5", src: "photos/family-2026-09-16-jessie-5.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-6", src: "photos/family-2026-09-16-jessie-6.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-7", src: "photos/family-2026-09-16-jessie-7.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-8", src: "photos/family-2026-09-16-jessie-8.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-9", src: "photos/family-2026-09-16-jessie-9.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-10", src: "photos/family-2026-09-16-jessie-10.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-11", src: "photos/family-2026-09-16-jessie-11.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-16-jessie-12", src: "photos/family-2026-09-16-jessie-12.jpg", date: "2026-09-16",
+    caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
+    letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
+];
