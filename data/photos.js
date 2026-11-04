@@ -10,6 +10,20 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
+  { id: "family-2026-10-05-jessie-1", src: "photos/family-2026-10-05-jessie-1.jpg", date: "2026-10-05",
+    caption: "Week 6 - Cactus Jack - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-05-cactus-jack" },
+  { id: "family-2026-10-05-jessie-2", src: "photos/family-2026-10-05-jessie-2.jpg", date: "2026-10-05",
+    caption: "Week 6 - Cactus Jack - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-05-cactus-jack" },
+  { id: "family-2026-10-05-jessie-3", src: "photos/family-2026-10-05-jessie-3.jpg", date: "2026-10-05",
+    caption: "Week 6 - Cactus Jack - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-05-cactus-jack" },
+  { id: "family-2026-10-05-jessie-4", src: "photos/family-2026-10-05-jessie-4.jpg", date: "2026-10-05",
+    caption: "Week 6 - Cactus Jack - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-05-cactus-jack" },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
   { id: "family-2026-09-16-jessie-1", src: "photos/family-2026-09-16-jessie-1.jpg", date: "2026-09-16",
     caption: "Mexico MTC (August 27-September 23, 2026)", location: "Mexico MTC",
     letterId: "2026-09-16-peace-in-christ", sharedBy: { name: "Jessie", relationship: "Mom" } },
