@@ -99,10 +99,22 @@ window.MISSION = {
       region: "Heredia, Costa Rica",
       type: "area",
       start: "2026-09-23",
-      end: null,
+      end: "2026-11-02",
       lat: 10.0060,                          // Flores canton (San Joaquín de Flores), Heredia
       lng: -84.1539,
       companion: "Elder Gardner",            // TODO: in a trio with two zone leaders; only Elder Gardner is named so far
+      note: "",
+      current: false
+    },
+    {
+      name: "Nicoya",
+      region: "Guanacaste, Costa Rica",
+      type: "area",
+      start: "2026-11-02",
+      end: null,
+      lat: 10.1504,                          // Nicoya, Guanacaste
+      lng: -85.4509,
+      companion: "",                         // TODO: not named yet
       note: "",
       current: true
     }

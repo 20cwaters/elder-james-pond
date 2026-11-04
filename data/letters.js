@@ -5,6 +5,37 @@
 
 window.LETTERS = [
   {
+    id: "2026-11-02-i-told-you-i-wouldnt-kill-you",
+    title: "\"I told you I wouldn't kill you\"",
+    date: "2026-11-02",
+    location: "Flores",
+    week: 10,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "What's up guys this week we got transfer news! I'm going to Nicoya which is a 7 hour bus ride away, so I'm getting shipped off. I'm excited to see me new area but sad to leave my comps and Elder Gardners going home ☹️" },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- We found the toughest new friend named Benedicto. Him his girlfriend and daughter should be getting baptized on the 15th, we just got to get them married first 😬" },
+      { type: "p", text: "- Some fire grub. Chorizo, pupusas and cheesecake" },
+      { type: "p", text: "- We have this guy we see in the park who got deported from Texas so he came up to talk to us just cause we know English. First 2 times he wouldn't come to church, but we said if we see him a 3rd it's his sign. We saw him again and he kept his word and pulled up to church. Tragically after church he said “on baby I'm never coming back”. He was telling us about how he's famous on Instagram and the world still thinks he's in the jail and there not ready for his return." },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- Our homeless friend threw a water bottle at us, but then after he said I told you I wouldn't kill you cause you guys do good in this neighborhood. He's genuinely the weirdest guy I've ever met" },
+      { type: "p", text: "- We have to kill Elder Gardner on Tuesday" },
+      { type: "p", text: "- I have to leave Flores right after our best week" },
+      { type: "p", text: "Shout out Mom for the fire talk, go listen to “A Higher Joy” by Uchtdorf" },
+      { type: "scripture", ref: "Dieter F. Uchtdorf, “A Higher Joy”", text: "We rarely find something we are not looking for. Are you looking for joy? Seek, and ye shall find." },
+      { type: "p", text: "I find this to be so true, when we look for reasons to be happy we find them. Jesus told us to “seek, and ye shall find.” We need to seek for the good in everything and not get caught up in the bad. It's crazy how much more joy we find when we seek it. It's waiting for us we just have to find it." },
+      { type: "p", text: "Email me 🙏" }
+    ],
+    spiritualThought: {
+      title: "Seek joy, and ye shall find",
+      intro: "Shout out Mom for the fire talk, go listen to “A Higher Joy” by Uchtdorf",
+      scriptureRef: "Dieter F. Uchtdorf, “A Higher Joy”",
+      scripture: "We rarely find something we are not looking for. Are you looking for joy? Seek, and ye shall find."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-19-aztec-soup-nah",
     title: "Aztec Soup?? Nah",
     date: "2026-10-19",
