@@ -10,6 +10,23 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
+  { id: "family-2026-10-12-jessie-1", src: "photos/family-2026-10-12-jessie-1.jpg", date: "2026-10-12",
+    caption: "Week 7 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-12-no-spanish-no-problem" },
+  { id: "family-2026-10-12-jessie-2", src: "photos/family-2026-10-12-jessie-2.jpg", date: "2026-10-12",
+    caption: "Week 7 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-12-no-spanish-no-problem" },
+  { id: "family-2026-10-12-jessie-3", src: "photos/family-2026-10-12-jessie-3.jpg", date: "2026-10-12",
+    caption: "Week 7 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-12-no-spanish-no-problem" },
+  { id: "family-2026-10-12-jessie-4", src: "photos/family-2026-10-12-jessie-4.jpg", date: "2026-10-12",
+    caption: "Week 7 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-12-no-spanish-no-problem" },
+  { id: "family-2026-10-12-jessie-5", src: "photos/family-2026-10-12-jessie-5.jpg", date: "2026-10-12",
+    caption: "Week 7 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
+    letterId: "2026-10-12-no-spanish-no-problem" },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
   { id: "family-2026-10-05-jessie-1", src: "photos/family-2026-10-05-jessie-1.jpg", date: "2026-10-05",
     caption: "Week 6 - Cactus Jack - Flores - Elder Bailey and Elder Gardner", location: "Flores",
     letterId: "2026-10-05-cactus-jack" },
