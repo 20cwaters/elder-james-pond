@@ -5,6 +5,36 @@
 
 window.LETTERS = [
   {
+    id: "2026-10-19-aztec-soup-nah",
+    title: "Aztec Soup?? Nah",
+    date: "2026-10-19",
+    location: "Flores",
+    week: 8,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "What's up guys this week was the best week out here yet! I think I'm starting to get used to things, and there's definitely hard times but there was a lot of joy this week." },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- On Monday it was my first baptism, we found an inactive family with a 10 year old kid named Noah who wasn't a member. His baptism was so cool and he started talking about how the spirit made the water warm after he got baptized, so sick" },
+      { type: "p", text: "- Our friend Damian cooked us up some gas burgers and was playing frank ocean all night" },
+      { type: "p", text: "- The members here are the best. We have member meals every night and they are always hilarious. Yesterday we visited a member and the guy was making chicharrones and he was dripping in sweat stirring that pot with full force, and then the lady made fresca Limón and had us try it but insisted on sticking the ladle in our mouths to taste test it" },
+      { type: "p", text: "- Gave my first blessing in Spanish, this family was struggling with their health and 3 of them needed a blessing so my comps each gave one and then Elder Gardner gave me that look and said your up. I tried to talk him out of it cause I barely know spanish but he wasn't letting me. It didn't go as bad as I thought and was a super cool experience" },
+      { type: "p", text: "- Got a grail Camo Biblia" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- We walked in too a members house and she had a big bowl of soup with a egg on top, it looked nasty and my comp said he thinks its aztec soup and it should be good but it was not. It looked like a big bowl of earwax with an egg on top. It was so thick and I was choking down every bite, but I said a prayer and got it down. My comp took like 30 minutes to get it down and he said it's the worst thing he's had in his 2 years here but we told her it was rico after. I can do all things through Christ type moment" },
+      { type: "p", text: "- We had Zone Conference and it's all in Spanish so it was hard to learn anything, but my understanding is actually getting a lil better and we had key lime pie" },
+      { type: "p", text: "- The New York tweaker of Flores" },
+      { type: "p", text: "The Power of Prayer is real. I had 2 questions during my studies and prayed about them before and found answers to both while reading in the scriptures. I have found that my studies are so much more meaningful when we have a question before and ask God to help us find an answer. I encourage you guys all to ask God any questions you may have in prayer and ponder in the scriptures after. I promise you will find an answer." }
+    ],
+    spiritualThought: {
+      title: "The power of prayer is real",
+      intro: "The Power of Prayer is real.",
+      scriptureRef: "",
+      scripture: "I had 2 questions during my studies and prayed about them before and found answers to both while reading in the scriptures. I have found that my studies are so much more meaningful when we have a question before and ask God to help us find an answer. I encourage you guys all to ask God any questions you may have in prayer and ponder in the scriptures after. I promise you will find an answer."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-12-no-spanish-no-problem",
     title: "No Spanish No Problem",
     date: "2026-10-12",

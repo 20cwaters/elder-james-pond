@@ -102,7 +102,7 @@ window.MISSION = {
       end: null,
       lat: 10.0060,                          // Flores canton (San Joaquín de Flores), Heredia
       lng: -84.1539,
-      companion: "",                         // TODO: in a trio with two zone leaders; he hasn't named them
+      companion: "Elder Gardner",            // TODO: in a trio with two zone leaders; only Elder Gardner is named so far
       note: "",
       current: true
     }
