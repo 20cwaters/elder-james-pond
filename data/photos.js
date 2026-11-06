@@ -10,6 +10,16 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
+  { id: "family-2026-09-28-jessie-video-1", video: "f275c9bed0e806e724dbabb8628f2f84", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f275c9bed0e806e724dbabb8628f2f84/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f275c9bed0e806e724dbabb8628f2f84/iframe", date: "2026-09-28",
+    caption: "James was assigned 2 companions.", location: "Flores",
+    letterId: "2026-09-28-pura-vida" },
+  { id: "family-2026-09-28-jessie-video-2", video: "92308d2681077bea99e6faa4731835e7", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/92308d2681077bea99e6faa4731835e7/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/92308d2681077bea99e6faa4731835e7/iframe", date: "2026-09-28",
+    caption: "James was assigned 2 companions.", location: "Flores",
+    letterId: "2026-09-28-pura-vida" },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
   { id: "family-2026-10-05-jessie-video-1", video: "f2aa9c4a9509e242332731f8752e5f4d", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f2aa9c4a9509e242332731f8752e5f4d/thumbnails/thumbnail.jpg?time=1s&height=720",
     embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f2aa9c4a9509e242332731f8752e5f4d/iframe", date: "2026-10-05",
     caption: "", location: "Flores",
