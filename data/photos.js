@@ -10,6 +10,16 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
+  { id: "family-2026-10-05-jessie-video-1", video: "f2aa9c4a9509e242332731f8752e5f4d", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f2aa9c4a9509e242332731f8752e5f4d/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f2aa9c4a9509e242332731f8752e5f4d/iframe", date: "2026-10-05",
+    caption: "", location: "Flores",
+    letterId: "2026-10-05-cactus-jack" },
+  { id: "family-2026-10-05-jessie-video-2", video: "f60d710e827caea8ff661dce8bd41353", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f60d710e827caea8ff661dce8bd41353/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f60d710e827caea8ff661dce8bd41353/iframe", date: "2026-10-05",
+    caption: "", location: "Flores",
+    letterId: "2026-10-05-cactus-jack" },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
   { id: "family-2026-10-12-jessie-video-1", video: "845403342bf084c52fd3a0ecaf9930dd", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/845403342bf084c52fd3a0ecaf9930dd/thumbnails/thumbnail.jpg?time=1s&height=720",
     embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/845403342bf084c52fd3a0ecaf9930dd/iframe", date: "2026-10-12",
     caption: "Noah was baptized!", location: "Flores",
