@@ -9,6 +9,12 @@
 
 window.PHOTOS = [
 
+  // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
+  { id: "family-2026-10-12-jessie-video-1", video: "845403342bf084c52fd3a0ecaf9930dd", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/845403342bf084c52fd3a0ecaf9930dd/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/845403342bf084c52fd3a0ecaf9930dd/iframe", date: "2026-10-12",
+    caption: "Noah was baptized!", location: "Flores",
+    letterId: "2026-10-12-no-spanish-no-problem" },
+
   // ---- Added by Jessie, Mom through the family link (2026-11-04) ----
   { id: "family-2026-11-02-jessie-1", src: "photos/family-2026-11-02-jessie-1.jpg", date: "2026-11-02",
     caption: "Week 10 - Flores - Elder Bailey and Elder Gardner", location: "Flores",
