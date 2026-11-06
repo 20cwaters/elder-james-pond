@@ -10,6 +10,20 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
+  { id: "family-2026-09-09-jessie-video-1", video: "ef4e73b66c08bcd326fcfe4783f48000", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ef4e73b66c08bcd326fcfe4783f48000/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ef4e73b66c08bcd326fcfe4783f48000/iframe", date: "2026-09-09",
+    caption: "", location: "Mexico MTC",
+    letterId: "2026-09-09-half-way-done-with-ccm" },
+  { id: "family-2026-09-09-jessie-video-2", video: "8a51ab54f5beb5800e7d8aff4d494040", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/8a51ab54f5beb5800e7d8aff4d494040/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/8a51ab54f5beb5800e7d8aff4d494040/iframe", date: "2026-09-09",
+    caption: "", location: "Mexico MTC",
+    letterId: "2026-09-09-half-way-done-with-ccm" },
+  { id: "family-2026-09-09-jessie-video-3", video: "07d8c827e5dfe6296152d410ebde2327", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/07d8c827e5dfe6296152d410ebde2327/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/07d8c827e5dfe6296152d410ebde2327/iframe", date: "2026-09-09",
+    caption: "", location: "Mexico MTC",
+    letterId: "2026-09-09-half-way-done-with-ccm" },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
   { id: "family-2026-09-28-jessie-video-1", video: "f275c9bed0e806e724dbabb8628f2f84", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f275c9bed0e806e724dbabb8628f2f84/thumbnails/thumbnail.jpg?time=1s&height=720",
     embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/f275c9bed0e806e724dbabb8628f2f84/iframe", date: "2026-09-28",
     caption: "James was assigned 2 companions.", location: "Flores",
