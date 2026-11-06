@@ -10,6 +10,20 @@
 window.PHOTOS = [
 
   // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
+  { id: "family-2026-09-02-jessie-video-1", video: "ed925a6afb89c7b15f7e7b28ee6eb25b", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ed925a6afb89c7b15f7e7b28ee6eb25b/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ed925a6afb89c7b15f7e7b28ee6eb25b/iframe", date: "2026-09-02",
+    caption: "", location: "Mexico MTC",
+    letterId: "2026-09-02-moc-in-the-top-pock", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-02-jessie-video-2", video: "11018899dd872e37cfd287d7e4e3d95d", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/11018899dd872e37cfd287d7e4e3d95d/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/11018899dd872e37cfd287d7e4e3d95d/iframe", date: "2026-09-02",
+    caption: "", location: "Mexico MTC",
+    letterId: "2026-09-02-moc-in-the-top-pock", sharedBy: { name: "Jessie", relationship: "Mom" } },
+  { id: "family-2026-09-02-jessie-video-3", video: "24ba2f8bf94803974da3701549b48fb6", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/24ba2f8bf94803974da3701549b48fb6/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/24ba2f8bf94803974da3701549b48fb6/iframe", date: "2026-09-02",
+    caption: "", location: "Mexico MTC",
+    letterId: "2026-09-02-moc-in-the-top-pock", sharedBy: { name: "Jessie", relationship: "Mom" } },
+
+  // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
   { id: "family-2026-09-09-jessie-video-1", video: "ef4e73b66c08bcd326fcfe4783f48000", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ef4e73b66c08bcd326fcfe4783f48000/thumbnails/thumbnail.jpg?time=1s&height=720",
     embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ef4e73b66c08bcd326fcfe4783f48000/iframe", date: "2026-09-09",
     caption: "", location: "Mexico MTC",
