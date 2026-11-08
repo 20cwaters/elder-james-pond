@@ -9,6 +9,20 @@
 
 window.PHOTOS = [
 
+  // ---- Added by Jessie, Mom through the family link (2026-11-07) ----
+  { id: "family-2026-10-19-jessie-video-1", video: "ac2c28845bed270217b0a4de602a1851", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ac2c28845bed270217b0a4de602a1851/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ac2c28845bed270217b0a4de602a1851/iframe", date: "2026-10-19",
+    caption: "Fixing Noah's house. Making chicharrones. BYU beat Notre Dame!", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+  { id: "family-2026-10-19-jessie-video-2", video: "21cd12af60bb85a2b5c2bcb56a5d8a29", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/21cd12af60bb85a2b5c2bcb56a5d8a29/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/21cd12af60bb85a2b5c2bcb56a5d8a29/iframe", date: "2026-10-19",
+    caption: "Fixing Noah's house. Making chicharrones. BYU beat Notre Dame!", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+  { id: "family-2026-10-19-jessie-video-3", video: "1a75fc236d5c01dcaac0aa8873c6f2f2", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/1a75fc236d5c01dcaac0aa8873c6f2f2/thumbnails/thumbnail.jpg?time=1s&height=720",
+    embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/1a75fc236d5c01dcaac0aa8873c6f2f2/iframe", date: "2026-10-19",
+    caption: "Fixing Noah's house. Making chicharrones. BYU beat Notre Dame!", location: "Flores",
+    letterId: "2026-10-19-aztec-soup-nah" },
+
   // ---- Added by Jessie, Mom through the family link (2026-11-05) ----
   { id: "family-2026-09-02-jessie-video-1", video: "ed925a6afb89c7b15f7e7b28ee6eb25b", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ed925a6afb89c7b15f7e7b28ee6eb25b/thumbnails/thumbnail.jpg?time=1s&height=720",
     embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/ed925a6afb89c7b15f7e7b28ee6eb25b/iframe", date: "2026-09-02",
