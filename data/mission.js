@@ -114,8 +114,8 @@ window.MISSION = {
       end: null,
       lat: 10.1504,                          // Nicoya, Guanacaste
       lng: -85.4509,
-      companion: "",                         // TODO: not named yet
-      note: "",
+      companion: "Elder Hathaway",
+      note: "Elder Hathaway is from St. George, Utah.",
       current: true
     }
   ]
