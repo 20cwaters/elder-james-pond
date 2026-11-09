@@ -33,7 +33,17 @@ window.LETTERS = [
       scripture: "3 Behold, I went to hunt beasts in the forests; and the words which I had often heard my father speak concerning eternal life, and the joy of the saints, sunk deep into my heart.\n\n4 And my soul hungered; and I kneeled down before my Maker, and I cried unto him in mighty prayer and supplication for mine own soul; and all the day long did I cry unto him; yea, and when the night came I did still raise my voice high that it reached the heavens.\n\n8 And he said unto me: Because of thy faith in Christ, whom thou hast never before heard nor seen. And many years pass away before he shall manifest himself in the flesh; wherefore, go to, thy faith hath made thee whole.\n\n27 And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father. Amen."
     },
     tagalog: [],
-    photos: []
+    photos: [
+      "family-2026-11-09-jessie-1",
+      "family-2026-11-09-jessie-2",
+      "family-2026-11-09-jessie-3",
+      "family-2026-11-09-jessie-4",
+      "family-2026-11-09-jessie-5",
+      "family-2026-11-09-jessie-6",
+      "family-2026-11-09-jessie-7",
+      "family-2026-11-09-jessie-8",
+      "family-2026-11-09-jessie-9"
+    ]
   },
   {
     id: "2026-11-02-i-told-you-i-wouldnt-kill-you",

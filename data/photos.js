@@ -9,6 +9,35 @@
 
 window.PHOTOS = [
 
+  // ---- Added by Jessie, Mom through the family link (2026-11-09) ----
+  { id: "family-2026-11-09-jessie-1", src: "photos/family-2026-11-09-jessie-1.jpg", date: "2026-11-09",
+    caption: "", location: "Nicoya",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-2", src: "photos/family-2026-11-09-jessie-2.jpg", date: "2026-11-09",
+    caption: "", location: "Nicoya",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-3", src: "photos/family-2026-11-09-jessie-3.jpg", date: "2026-11-09",
+    caption: "", location: "Nicoya",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-4", src: "photos/family-2026-11-09-jessie-4.jpg", date: "2026-11-09",
+    caption: "", location: "",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-5", src: "photos/family-2026-11-09-jessie-5.jpg", date: "2026-11-09",
+    caption: "", location: "",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-6", src: "photos/family-2026-11-09-jessie-6.jpg", date: "2026-11-09",
+    caption: "", location: "",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-7", src: "photos/family-2026-11-09-jessie-7.jpg", date: "2026-11-09",
+    caption: "", location: "",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-8", src: "photos/family-2026-11-09-jessie-8.jpg", date: "2026-11-09",
+    caption: "", location: "",
+    letterId: "2026-11-09-nicoya" },
+  { id: "family-2026-11-09-jessie-9", src: "photos/family-2026-11-09-jessie-9.jpg", date: "2026-11-09",
+    caption: "", location: "",
+    letterId: "2026-11-09-nicoya" },
+
   // ---- Added by Jessie, Mom through the family link (2026-11-07) ----
   { id: "family-2026-10-29-jessie-video-1", video: "e49a146217e958225cc046352b3c7093", src: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/e49a146217e958225cc046352b3c7093/thumbnails/thumbnail.jpg?time=1s&height=720",
     embed: "https://customer-n5ytimoizyk50lvp.cloudflarestream.com/e49a146217e958225cc046352b3c7093/iframe", date: "2026-10-29",
