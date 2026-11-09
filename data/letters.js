@@ -5,6 +5,37 @@
 
 window.LETTERS = [
   {
+    id: "2026-11-09-nicoya",
+    title: "Nicoya🌴",
+    date: "2026-11-09",
+    location: "Nicoya",
+    week: 11,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "Whats up, I made it Nicoya after a lengthy 7 hour bus ride with no leg room and cockroaches!" },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- We have a family of 4 on date for next week, they are so tuff and have so much faith, they walked like at least an hour to the church through the pouring rain, and they were like a quarter of the ward lol. No one wants to pull up when it's raining ig 🤷 and the kid Jokson is hilarious he tries to speak English but can't so he calls Elder Hathaway Wata Wata" },
+      { type: "p", text: "- Nicoya is fire it feels a little more like what I imagined Costa Rica to be like." },
+      { type: "p", text: "- I'm grinding the ukulele at night but I'm still buns, shoutout Elder Gardner for the uke" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- I actually have to cook now cause the members don't feed us everyday 😭" },
+      { type: "p", text: "- Our area is massive but the place where people actually live is tiny, I think I have almost already knocked every door in 3 days, and Hathaway has already talked to everyone like 10 times so they don't want to talk to him lol" },
+      { type: "p", text: "- I'm trying to read the Book of Mormon in Spanish and can't understand a thing, gift of tongues wya" },
+      { type: "p", text: "Enos could be favorite book in the BOM" },
+      { type: "scripture", ref: "Enos 1:3–4, 8, 27", text: "3 Behold, I went to hunt beasts in the forests; and the words which I had often heard my father speak concerning eternal life, and the joy of the saints, sunk deep into my heart.\n\n4 And my soul hungered; and I kneeled down before my Maker, and I cried unto him in mighty prayer and supplication for mine own soul; and all the day long did I cry unto him; yea, and when the night came I did still raise my voice high that it reached the heavens.\n\n8 And he said unto me: Because of thy faith in Christ, whom thou hast never before heard nor seen. And many years pass away before he shall manifest himself in the flesh; wherefore, go to, thy faith hath made thee whole.\n\n27 And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father. Amen." },
+      { type: "p", text: "I love how he literally went to hunt eternal life and joy. That is the type of desire we need. Enos had an insane amount of faith and a desire to have eternal life and joy. And because of his faith and how he lived when he saw God again he knew he could see him with pleasure and live in his mansion. I encourage you guys all to go read Enos it's short and sweet and insanely good." },
+      { type: "p", text: "Peace, email me ✌️" }
+    ],
+    spiritualThought: {
+      title: "He went to hunt eternal life and joy",
+      intro: "Enos could be favorite book in the BOM",
+      scriptureRef: "Enos 1:3–4, 8, 27",
+      scripture: "3 Behold, I went to hunt beasts in the forests; and the words which I had often heard my father speak concerning eternal life, and the joy of the saints, sunk deep into my heart.\n\n4 And my soul hungered; and I kneeled down before my Maker, and I cried unto him in mighty prayer and supplication for mine own soul; and all the day long did I cry unto him; yea, and when the night came I did still raise my voice high that it reached the heavens.\n\n8 And he said unto me: Because of thy faith in Christ, whom thou hast never before heard nor seen. And many years pass away before he shall manifest himself in the flesh; wherefore, go to, thy faith hath made thee whole.\n\n27 And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father. Amen."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-11-02-i-told-you-i-wouldnt-kill-you",
     title: "\"I told you I wouldn't kill you\"",
     date: "2026-11-02",
