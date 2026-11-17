@@ -5,6 +5,36 @@
 
 window.LETTERS = [
   {
+    id: "2026-11-16-first-baptism",
+    title: "First Baptism 🥳",
+    date: "2026-11-16",
+    location: "Nicoya",
+    week: 12,
+    albumUrl: "https://photos.app.goo.gl/B26MFZGLfg2bpqnK7",
+    body: [
+      { type: "p", text: "What's up everyone this week was so fire! The work here in Nicoya was so tuff this week." },
+      { type: "p", text: "Highlights" },
+      { type: "p", text: "- The best family ever got baptized this week. This family has so much faith and makes my day everytime we get to teach them. They got baptized yesterday and there was so much Joy. The 8 year old daughter didn't go all the way under the first time and then I explained she needed to go all the way under and she just jumped backwards into the water lol. So then we had to do it again and she basically got baptized 3 times but it was fire." },
+      { type: "p", text: "- We had a Mejenga on Saturday with the ward, on the sickest field ever surrounded by palm trees. Got to debut my pulisic Chelsea jersey." },
+      { type: "p", text: "- Listening to a bunch of crazy catholic ladies scream at my comp to leave because he has knocked the door 10 times" },
+      { type: "p", text: "Lowlights" },
+      { type: "p", text: "- It is so hot I have never sweat more in my life, I got pranks my first couple days in Nicoya cause it was cooler but now it's bloody hot" },
+      { type: "scripture", ref: "Ether 12:4", text: "Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men, which would make them sure and steadfast, always abounding in good works, being led to glorify God." },
+      { type: "p", text: "With hope in God all things really can be better. When we have him as our literal anchor other things around us can move but the anchor never moves, and brings us a better life here and forever." },
+      { type: "p", text: "Peace out email me 🙏" }
+    ],
+    spiritualThought: {
+      title: "Our literal anchor",
+      intro: "",
+      scriptureRef: "Ether 12:4",
+      scripture: "Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men, which would make them sure and steadfast, always abounding in good works, being led to glorify God."
+    },
+    tagalog: [],
+    photos: [
+      "2026-11-16-1"
+    ]
+  },
+  {
     id: "2026-11-09-nicoya",
     title: "Nicoya🌴",
     date: "2026-11-09",

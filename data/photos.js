@@ -9,6 +9,11 @@
 
 window.PHOTOS = [
 
+  // ---- 2026-11-16 · First Baptism 🥳 ----
+  { id: "2026-11-16-1", src: "photos/2026-11-16-1.jpg", date: "2026-11-16",
+    caption: "", location: "Nicoya",
+    letterId: "2026-11-16-first-baptism" },
+
   // ---- Added by Jessie, Mom through the family link (2026-11-09) ----
   { id: "family-2026-11-09-jessie-1", src: "photos/family-2026-11-09-jessie-1.jpg", date: "2026-11-09",
     caption: "", location: "Nicoya",
